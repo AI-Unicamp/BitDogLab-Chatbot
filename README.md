@@ -76,3 +76,8 @@ If you instead wish to generate code directly from a pseudocode or natural langu
 Dept. of Computer Engineering and Automation (DCA)\
 Universidade Estadual de Campinas (UNICAMP)\
 <m247275@dac.unicamp.br> | <lozavival@gmail.com>
+
+**Prof. Paula Dornhofer Paro Costa**\
+Dept. of Computer Engineering and Automation (DCA)\
+Universidade Estadual de Campinas (UNICAMP)\
+<paulad@unicamp.br>
