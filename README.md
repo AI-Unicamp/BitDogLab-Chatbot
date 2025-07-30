@@ -34,7 +34,7 @@ BitDogLab-Chatbot/
 
 ### 1. Setup the environment
 
-1. Clone the repository: `git clone https://github.com/Lozavival/BitDogLab-Chatbot.git` <p style="color: red;">TODO: CREATE A GITHUB REPO AND REPLACE URL</p>
+1. Clone the repository: `git clone https://github.com/AI-Unicamp/BitDogLab-Chatbot.git`
 2. Create a virtual environment and install the required Python packages:
 
     ```bash
